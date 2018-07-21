@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp", "FirstApp\FirstApp.csproj", "{C0B195F9-14EA-4988-BAA3-BCD3D43E1D07}"
 EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudService1", "AzureCloudService1\AzureCloudService1.ccproj", "{833939F5-F605-4207-A9EF-6A3D7DE25BD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyService", "MyService\MyService.csproj", "{4644E7B4-086A-431B-9190-4416DED4B537}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C0B195F9-14EA-4988-BAA3-BCD3D43E1D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0B195F9-14EA-4988-BAA3-BCD3D43E1D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0B195F9-14EA-4988-BAA3-BCD3D43E1D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833939F5-F605-4207-A9EF-6A3D7DE25BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833939F5-F605-4207-A9EF-6A3D7DE25BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833939F5-F605-4207-A9EF-6A3D7DE25BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833939F5-F605-4207-A9EF-6A3D7DE25BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4644E7B4-086A-431B-9190-4416DED4B537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4644E7B4-086A-431B-9190-4416DED4B537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4644E7B4-086A-431B-9190-4416DED4B537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4644E7B4-086A-431B-9190-4416DED4B537}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
